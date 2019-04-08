@@ -1,4 +1,4 @@
-Name: blacklistallmarkip2
+: blacklistallmarkip2
 114.231.136.63
 41.233.23.175
 218.92.0.199
