@@ -1,6 +1,4 @@
 Name: blacklistallmarkip2
-Type: hash:ip
-Revision: 1
 Header: family inet hashsize 32768 maxelem 131070
 Size in memory: 974672
 References: 1
