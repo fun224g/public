@@ -1,8 +1,4 @@
 Name: blacklistallmarkip2
-Header: family inet hashsize 32768 maxelem 131070
-Size in memory: 974672
-References: 1
-Members:
 114.231.136.63
 41.233.23.175
 218.92.0.199
